@@ -27,7 +27,7 @@ from tools.project import (
 # Game versions
 DEFAULT_VERSION = 0
 VERSIONS = [
-    "GAMEID",	# 0
+    "GQPE78",	# 0
 ]
 
 if len(VERSIONS) > 1:
@@ -179,7 +179,7 @@ cflags_rel = [
     "-sdata2 0",
 ]
 
-config.linker_version = "GC/1.3.2"
+config.linker_version = "GC/2.0"
 
 
 # Helper function for Dolphin libraries
